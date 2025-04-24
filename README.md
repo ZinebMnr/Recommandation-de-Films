@@ -1,4 +1,4 @@
-# 🎬 Recommandateur de Films avec ChatGPT et Hugging Face
+# 🎬 Recommandateur de Films
 
 Bienvenue dans notre projet de recommandation de films basé sur les synopsis ! À partir d'un simple titre de film en entrée, notre application vous propose une sélection de films similaires, avec les liens AlloCiné à portée de clic.
 

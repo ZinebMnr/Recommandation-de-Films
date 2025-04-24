@@ -1,4 +1,4 @@
-# 🎬 Recommandateur de Films
+# Recommandation de Films
 
 Bienvenue dans notre projet de recommandation de films basé sur les synopsis ! À partir d'un simple titre de film en entrée, notre application vous propose une sélection de films similaires, avec les liens AlloCiné à portée de clic.
 
@@ -29,19 +29,19 @@ Ce projet a été réalisé dans le cadre de notre master par :
 
 Le projet est structuré en **trois grandes étapes** :
 
-### 1. 🎥 Scraping des films
+### 1. Scraping des films
 
 - Source : [AlloCiné](https://www.allocine.fr)
 - Environ **20 000 films** récupérés
 - Scraping par lots de **15 films par page**, sur plusieurs centaines de pages
 - Données collectées : titre, synopsis, genres et lien vers la fiche AlloCiné
 
-### 2. 🧠 Embedding des synopsis
+### 2. Embedding des synopsis
 
 - Utilisation de l’**API OpenAI (ChatGPT)** pour vectoriser les synopsis
 - Calcul de la **similarité cosinus** pour déterminer les films les plus proches
 
-### 3. 🌐 Interface utilisateur
+### 3. Interface utilisateur
 
 - Développée avec **Hugging Face Spaces**
 - Saisie du titre de film + choix du nombre de recommandations
@@ -49,7 +49,7 @@ Le projet est structuré en **trois grandes étapes** :
 
 ---
 
-## 🧰 Technologies utilisées
+## Technologies utilisées
 
 - `Python` : BeautifulSoup, requests, pandas, numpy
 - `OpenAI API` : embeddings de textes
@@ -58,7 +58,7 @@ Le projet est structuré en **trois grandes étapes** :
 
 ---
 
-## 🚀 Testez le !
+## Testez le !
 
 Lien vers l'interface : https://huggingface.co/spaces/aymanexv/Outildesuggestiondefilm
 

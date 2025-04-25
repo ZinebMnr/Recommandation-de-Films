@@ -94,7 +94,7 @@ Une interface Gradio s’ouvre dans votre navigateur. Entrez un film, obtenez de
 
 Les données utilisées dans ce projet proviennent d’**Allociné** via web scraping. Si vous souhaitez éviter les longues phases de scraping et d'embedding, vous pouvez télécharger un fichier `films.csv` déjà prêt (embeddings inclus) ici :
 
-🔗 **[Lien Google Drive (à ajouter)](https://drive.google.com/...)**
+🔗 **[Lien Google Drive](https://drive.google.com/drive/folders/1g2advXkIDeL_xDou16z9LaalyiGJMeuz)**
 
 Placez ce fichier dans le dossier du projet avant d'exécuter `app.py`.
 

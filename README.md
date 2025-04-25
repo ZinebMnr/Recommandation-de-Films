@@ -80,7 +80,7 @@ python embeddings.py
 ```
 Cela ajoute les vecteurs d’embeddings dans le fichier `films.csv`.
 
-### 🌐 Étape 3 - Lancer l’interface utilisateur
+### Étape 3 - Lancer l’interface utilisateur
 
 Dans `app.py` :
 ```bash

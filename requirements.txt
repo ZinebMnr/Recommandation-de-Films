@@ -1,0 +1,7 @@
+pandas
+numpy
+openai
+scikit-learn
+gradio
+beautifulsoup4
+requests
